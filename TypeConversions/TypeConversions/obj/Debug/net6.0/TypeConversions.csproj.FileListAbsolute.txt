@@ -1,0 +1,15 @@
+D:\github\fimple.net-bootcamp-homeworks\TypeConversions\TypeConversions\obj\Debug\net6.0\TypeConversions.csproj.AssemblyReference.cache
+D:\github\fimple.net-bootcamp-homeworks\TypeConversions\TypeConversions\obj\Debug\net6.0\TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\fimple.net-bootcamp-homeworks\TypeConversions\TypeConversions\obj\Debug\net6.0\TypeConversions.AssemblyInfoInputs.cache
+D:\github\fimple.net-bootcamp-homeworks\TypeConversions\TypeConversions\obj\Debug\net6.0\TypeConversions.AssemblyInfo.cs
+D:\github\fimple.net-bootcamp-homeworks\TypeConversions\TypeConversions\obj\Debug\net6.0\TypeConversions.csproj.CoreCompileInputs.cache
+D:\github\fimple.net-bootcamp-homeworks\TypeConversions\TypeConversions\bin\Debug\net6.0\TypeConversions.exe
+D:\github\fimple.net-bootcamp-homeworks\TypeConversions\TypeConversions\bin\Debug\net6.0\TypeConversions.deps.json
+D:\github\fimple.net-bootcamp-homeworks\TypeConversions\TypeConversions\bin\Debug\net6.0\TypeConversions.runtimeconfig.json
+D:\github\fimple.net-bootcamp-homeworks\TypeConversions\TypeConversions\bin\Debug\net6.0\TypeConversions.dll
+D:\github\fimple.net-bootcamp-homeworks\TypeConversions\TypeConversions\bin\Debug\net6.0\TypeConversions.pdb
+D:\github\fimple.net-bootcamp-homeworks\TypeConversions\TypeConversions\obj\Debug\net6.0\TypeConversions.dll
+D:\github\fimple.net-bootcamp-homeworks\TypeConversions\TypeConversions\obj\Debug\net6.0\refint\TypeConversions.dll
+D:\github\fimple.net-bootcamp-homeworks\TypeConversions\TypeConversions\obj\Debug\net6.0\TypeConversions.pdb
+D:\github\fimple.net-bootcamp-homeworks\TypeConversions\TypeConversions\obj\Debug\net6.0\TypeConversions.genruntimeconfig.cache
+D:\github\fimple.net-bootcamp-homeworks\TypeConversions\TypeConversions\obj\Debug\net6.0\ref\TypeConversions.dll
