@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\VariablesAndDataTypes",
-    "\\VariablesAndDataTypes\\VariablesAndDataTypes"
+    "\\Operators",
+    "\\Operators\\Operators"
   ],
-  "SelectedNode": "\\VariablesAndDataTypes\\VariablesAndDataTypes\\Program.cs",
+  "SelectedNode": "\\Operators\\Operators\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
