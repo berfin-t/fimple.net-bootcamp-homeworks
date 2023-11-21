@@ -1,0 +1,15 @@
+D:\github\fimple.net-bootcamp-homeworks\Operators\Operators\obj\Debug\net6.0\Operators.csproj.AssemblyReference.cache
+D:\github\fimple.net-bootcamp-homeworks\Operators\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\fimple.net-bootcamp-homeworks\Operators\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+D:\github\fimple.net-bootcamp-homeworks\Operators\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+D:\github\fimple.net-bootcamp-homeworks\Operators\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+D:\github\fimple.net-bootcamp-homeworks\Operators\Operators\bin\Debug\net6.0\Operators.exe
+D:\github\fimple.net-bootcamp-homeworks\Operators\Operators\bin\Debug\net6.0\Operators.deps.json
+D:\github\fimple.net-bootcamp-homeworks\Operators\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+D:\github\fimple.net-bootcamp-homeworks\Operators\Operators\bin\Debug\net6.0\Operators.dll
+D:\github\fimple.net-bootcamp-homeworks\Operators\Operators\bin\Debug\net6.0\Operators.pdb
+D:\github\fimple.net-bootcamp-homeworks\Operators\Operators\obj\Debug\net6.0\Operators.dll
+D:\github\fimple.net-bootcamp-homeworks\Operators\Operators\obj\Debug\net6.0\refint\Operators.dll
+D:\github\fimple.net-bootcamp-homeworks\Operators\Operators\obj\Debug\net6.0\Operators.pdb
+D:\github\fimple.net-bootcamp-homeworks\Operators\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache
+D:\github\fimple.net-bootcamp-homeworks\Operators\Operators\obj\Debug\net6.0\ref\Operators.dll

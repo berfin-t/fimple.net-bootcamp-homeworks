@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\github\\VariablesAndDataTypes\\VariablesAndDataTypes\\VariablesAndDataTypes.csproj": {}
+    "D:\\github\\fimple.net-bootcamp-homeworks\\VariablesAndDataTypes\\VariablesAndDataTypes\\VariablesAndDataTypes.csproj": {}
   },
   "projects": {
-    "D:\\github\\VariablesAndDataTypes\\VariablesAndDataTypes\\VariablesAndDataTypes.csproj": {
+    "D:\\github\\fimple.net-bootcamp-homeworks\\VariablesAndDataTypes\\VariablesAndDataTypes\\VariablesAndDataTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\github\\VariablesAndDataTypes\\VariablesAndDataTypes\\VariablesAndDataTypes.csproj",
+        "projectUniqueName": "D:\\github\\fimple.net-bootcamp-homeworks\\VariablesAndDataTypes\\VariablesAndDataTypes\\VariablesAndDataTypes.csproj",
         "projectName": "VariablesAndDataTypes",
-        "projectPath": "D:\\github\\VariablesAndDataTypes\\VariablesAndDataTypes\\VariablesAndDataTypes.csproj",
+        "projectPath": "D:\\github\\fimple.net-bootcamp-homeworks\\VariablesAndDataTypes\\VariablesAndDataTypes\\VariablesAndDataTypes.csproj",
         "packagesPath": "C:\\Users\\Berfin\\.nuget\\packages\\",
-        "outputPath": "D:\\github\\VariablesAndDataTypes\\VariablesAndDataTypes\\obj\\",
+        "outputPath": "D:\\github\\fimple.net-bootcamp-homeworks\\VariablesAndDataTypes\\VariablesAndDataTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Berfin\\AppData\\Roaming\\NuGet\\NuGet.Config",
