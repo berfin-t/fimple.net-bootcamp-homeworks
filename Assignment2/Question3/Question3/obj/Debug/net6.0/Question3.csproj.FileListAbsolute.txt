@@ -1,0 +1,15 @@
+D:\github\fimple.net-bootcamp-homeworks\Assignment2\Question3\Question3\bin\Debug\net6.0\Question3.exe
+D:\github\fimple.net-bootcamp-homeworks\Assignment2\Question3\Question3\bin\Debug\net6.0\Question3.deps.json
+D:\github\fimple.net-bootcamp-homeworks\Assignment2\Question3\Question3\bin\Debug\net6.0\Question3.runtimeconfig.json
+D:\github\fimple.net-bootcamp-homeworks\Assignment2\Question3\Question3\bin\Debug\net6.0\Question3.dll
+D:\github\fimple.net-bootcamp-homeworks\Assignment2\Question3\Question3\bin\Debug\net6.0\Question3.pdb
+D:\github\fimple.net-bootcamp-homeworks\Assignment2\Question3\Question3\obj\Debug\net6.0\Question3.csproj.AssemblyReference.cache
+D:\github\fimple.net-bootcamp-homeworks\Assignment2\Question3\Question3\obj\Debug\net6.0\Question3.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\fimple.net-bootcamp-homeworks\Assignment2\Question3\Question3\obj\Debug\net6.0\Question3.AssemblyInfoInputs.cache
+D:\github\fimple.net-bootcamp-homeworks\Assignment2\Question3\Question3\obj\Debug\net6.0\Question3.AssemblyInfo.cs
+D:\github\fimple.net-bootcamp-homeworks\Assignment2\Question3\Question3\obj\Debug\net6.0\Question3.csproj.CoreCompileInputs.cache
+D:\github\fimple.net-bootcamp-homeworks\Assignment2\Question3\Question3\obj\Debug\net6.0\Question3.dll
+D:\github\fimple.net-bootcamp-homeworks\Assignment2\Question3\Question3\obj\Debug\net6.0\refint\Question3.dll
+D:\github\fimple.net-bootcamp-homeworks\Assignment2\Question3\Question3\obj\Debug\net6.0\Question3.pdb
+D:\github\fimple.net-bootcamp-homeworks\Assignment2\Question3\Question3\obj\Debug\net6.0\Question3.genruntimeconfig.cache
+D:\github\fimple.net-bootcamp-homeworks\Assignment2\Question3\Question3\obj\Debug\net6.0\ref\Question3.dll
