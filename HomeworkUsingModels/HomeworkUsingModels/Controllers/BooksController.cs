@@ -1,5 +1,13 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using System.Net;
+using AutoMapper;
+using FluentValidation;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using HomeworkUsingModels.DBOperations;
+using HomeworkUsingModels.Operations.BookOperations.Create.Commands;
+using HomeworkUsingModels.Operations.BookOperations.Delete.Commands;
+using HomeworkUsingModels.Operations.BookOperations.Queries;
+using HomeworkUsingModels.Operations.BookOperations.Update.Commands;
 
 namespace HomeworkUsingModels.Controllers
 {

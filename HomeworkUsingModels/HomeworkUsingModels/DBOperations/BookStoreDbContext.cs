@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
-using WebApi.Entities;
+using HomeworkUsingModels.Entities;
 
-namespace WebApi.DBOperations
+namespace HomeworkUsingModels.DBOperations
 {
     public partial class BookStoreDbContext : DbContext, IBookStoreDbContext
     {

@@ -1,9 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Diagnostics;
-using WebApi.Entities;
+using HomeworkUsingModels.Entities;
 
-namespace WebApi.DBOperations
+namespace HomeworkUsingModels.DBOperations
 {
     public partial class SchoolContext : DbContext
     {

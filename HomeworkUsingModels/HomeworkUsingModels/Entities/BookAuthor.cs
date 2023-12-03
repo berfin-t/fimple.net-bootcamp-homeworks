@@ -1,4 +1,4 @@
-﻿namespace WebApi.Entities
+﻿namespace HomeworkUsingModels.Entities
 {
     public class BookAuthor
     {

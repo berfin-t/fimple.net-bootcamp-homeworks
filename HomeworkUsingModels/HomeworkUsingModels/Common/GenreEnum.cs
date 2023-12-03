@@ -1,4 +1,4 @@
-﻿namespace WebApi.Common
+﻿namespace HomeworkUsingModels.Common
 {
     public enum GenreEnum
     {

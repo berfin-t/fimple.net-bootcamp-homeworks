@@ -1,9 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
 using System.Collections.Generic;
-using WebApi.Entities;
+using HomeworkUsingModels.Entities;
 
-namespace WebApi.DBOperations
+namespace HomeworkUsingModels.DBOperations
 {
     public interface IBookStoreDbContext
     {
